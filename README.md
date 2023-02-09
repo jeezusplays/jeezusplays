@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joey</h1>
+<h1 align="center">Hi , I'm Joey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Aspiring Software Developer from Singapore Management University</h3>
 
 - 🌱 I’m currently learning **Docker, Flask**
