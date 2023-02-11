@@ -10,8 +10,10 @@
 
 <br><br>
 
-- :school: [Bachelor of Science(Infomation Systems)](https://scis.smu.edu.sg/bsc-information-systems) at [Singapore Management University](https://www.smu.edu.sg/)
-- 🌱 I’m currently learning **Docker, Flask**
+- :school: [Bachelor of Science(Information Systems)](https://scis.smu.edu.sg/bsc-information-systems) at [Singapore Management University](https://www.smu.edu.sg/)
+- 🌱 I’m currently learning `Docker` and `Flask`
+- :nerd_face: Always `learning new things`
+- :computer: View my [LinkedIn here](https://www.linkedin.com/in/joey-tan-zuyi/) and connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
