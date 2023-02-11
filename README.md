@@ -4,6 +4,13 @@
 </p>
 <!-- <h3 align="center">Aspiring Software Developer from Singapore Management University</h3> -->
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> About Me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: [Bachelor of Science(Infomation Systems)](https://scis.smu.edu.sg/bsc-information-systems) at [Singapore Management University](https://www.smu.edu.sg/)
 - 🌱 I’m currently learning **Docker, Flask**
 
 <h3 align="left">Connect with me:</h3>
