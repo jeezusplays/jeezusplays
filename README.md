@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning `Docker` and `Flask`
 - :thinking: I’m currently working on `Project Documentation` and `Profile README`
 - :nerd_face: Always `learning new things`
-- :computer: View my [LinkedIn here](https://www.linkedin.com/in/joey-tan-zuyi/) and connect!
+- :computer: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/joey-tan-zuyi/)!
 
 
 <h3 align="left">🛠️ My Skills</h3>
