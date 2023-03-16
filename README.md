@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school: [Bachelor of Science(Information Systems)](https://scis.smu.edu.sg/bsc-information-systems) at [Singapore Management University](https://www.smu.edu.sg/)
+- :school: [Bachelor of Science (Information Systems)](https://scis.smu.edu.sg/bsc-information-systems) at [Singapore Management University](https://www.smu.edu.sg/)
 - 🌱 I’m currently learning `Docker`, `Flask` and `Vue`
 - :thinking: I’m currently working on `Project Documentation`, `Profile README` and [`Project SafeMe`](https://github.com/samchung95/SafeMe)
 - :nerd_face: Always `learning new things`
