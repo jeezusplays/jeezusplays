@@ -12,9 +12,6 @@
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> About Me
-
-<br><br>
-
 - :school: [Bachelor of Science (Information Systems)](https://scis.smu.edu.sg/bsc-information-systems) at [Singapore Management University](https://www.smu.edu.sg/)
 - 🌱 I’m currently learning `Docker`, `Flask` and `Vue`
 - :thinking: I’m currently working on `Project Documentation`, `Profile README`, [`Web Application Development`](https://github.com/jeezusplays/WebApplicationDevelopment) and [`Project SafeMe`](https://github.com/samchung95/SafeMe)
