@@ -8,7 +8,7 @@
 <div align="center">
   <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeezusplays&theme=github_dark&hide_border=true" alt="GitHub Streak">
 
-  <img width="49.7%" height="100%" src="https://github-readme-stats.vercel.app/api/?username=jeezusplays&count_private=true&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Statistics">
+  <img width="49.7%" height="100%" src="https://github-readme-stats-jeezusplays.vercel.app//api/?username=jeezusplays&count_private=true&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Statistics">
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> About Me
