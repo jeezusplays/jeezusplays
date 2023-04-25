@@ -4,7 +4,6 @@
 </p>
 <!-- <h3 align="center">Aspiring Software Developer from Singapore Management University</h3> -->
 
-
 <div align="center">
   <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeezusplays&theme=github_dark&hide_border=true" alt="GitHub Streak">
 
@@ -14,8 +13,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> About Me
 - :school: [Bachelor of Science (Information Systems)](https://scis.smu.edu.sg/bsc-information-systems) at [Singapore Management University](https://www.smu.edu.sg/)
 - 🌱 I’m currently learning `Docker`, `Flask` and `Vue`
-- :thinking: I’m currently working on `Project Documentation`, `Profile README`, [`Web Application Development`](https://github.com/jeezusplays/WebApplicationDevelopment)
-- :nerd_face: Always `learning new things`
+- :thinking: I’m currently working on `Project Documentation`, `Profile README`, `Web Application Development`
+- :nerd_face: Always learning new things!
 - :computer: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/joey-tan-zuyi/)!
 
 
