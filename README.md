@@ -117,7 +117,17 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="unity"/> </a> 
     <!--PyCharm-->
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"/> </a>
-  
+
+<h3 align="left">📚 My Noteworthy Projects</h3>
+
+<a href="https://github.com/samchung95/safeme">
+  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=samchung95&repo=safeme&theme=github_dark" />
+</a>
+<a href="https://github.com/jeezusplays/PropertyPlanners">
+  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=propertyplanners&theme=github_dark" />
+</a>
+
+
 <!-- ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
