@@ -119,8 +119,8 @@
 
 <h3 align="left">📚 My Noteworthy Projects</h3>
 
-<a href="https://github.com/samchung95/safeme">
-  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=samchung95&repo=safeme&theme=github_dark" />
+<a href="https://github.com/jeezusplays/safeme">
+  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=safeme&theme=github_dark" />
 </a>
 <a href="https://github.com/jeezusplays/PropertyPlanners">
   <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=propertyplanners&theme=github_dark" />
