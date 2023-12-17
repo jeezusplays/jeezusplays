@@ -119,11 +119,11 @@
 
 <h3 align="left">📚 My Noteworthy Projects</h3>
 
-<a href="https://github.com/jeezusplays/safeme">
-  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=safeme&theme=github_dark" />
+<a href="https://github.com/jeezusplays/is460-g2">
+  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=is460-g2&theme=github_dark" />
 </a>
-<a href="https://github.com/jeezusplays/PropertyPlanners">
-  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=propertyplanners&theme=github_dark" />
+<a href="https://github.com/jeezusplays/IS212-G6T6">
+  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=IS212-G6T6&theme=github_dark" />
 </a>
 
 
