@@ -66,7 +66,9 @@
     <!-- Vue.js -->
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vuejs"/></a>
     <!-- Flask -->
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="flask"/> </a> 
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="flask"/> </a>
+     <!-- Laravel  -->
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="laravel"/> </a>
 
 
 <h4 align="left">Database</h4> 
@@ -116,15 +118,18 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="unity"/> </a> 
     <!--PyCharm-->
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"/> </a>
+    <!-- Netlify -->
+    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="netlify"/> </a>
+    
 
-<h3 align="left">📚 My Noteworthy Projects</h3>
+<!-- <h3 align="left">📚 My Noteworthy Projects</h3>
 
 <a href="https://github.com/jeezusplays/is460-g2">
   <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=is460-g2&theme=github_dark" />
 </a>
 <a href="https://github.com/jeezusplays/IS212-G6T6">
   <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=IS212-G6T6&theme=github_dark" />
-</a>
+</a> -->
 
 
 <!-- ## 🐍 A Snake Eating my Contributions Graph
