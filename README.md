@@ -122,14 +122,14 @@
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="netlify"/> </a>
     
 
-<!-- <h3 align="left">📚 My Noteworthy Projects</h3>
+<!-- <h3 align="left">📚 My Noteworthy Projects</h3> -->
 
 <a href="https://github.com/jeezusplays/is460-g2">
-  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=is460-g2&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=soonann&repo=noise-solulu&theme=github_dark" />
 </a>
 <a href="https://github.com/jeezusplays/IS212-G6T6">
   <img align="center" src="https://github-readme-stats-beta-brown.vercel.app/api/pin/?username=jeezusplays&repo=IS212-G6T6&theme=github_dark" />
-</a> -->
+</a>
 
 
 <!-- ## 🐍 A Snake Eating my Contributions Graph -->
